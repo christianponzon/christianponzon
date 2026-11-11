@@ -19,7 +19,7 @@ Soy estudiante de **Desarrollo de Software en SENATI**, actualmente cursando el 
 
 Tengo conocimientos en desarrollo web, programación, bases de datos y creación de APIs REST.
 
-Me caracterizo por ser responsable, autodidacta y tener facilidad para aprender nuevas tecnologías, resolver problemas y trabajar en equipo.
+Me caracterizo por ser responsable, autodidactico y tener facilidad para aprender nuevas tecnologías, resolver problemas y trabajar en equipo.
 
 - 🎓 Formación: **SENATI – Desarrollo de Software**
 - 💻 Especialidad: **Desarrollo Web y Backend**
