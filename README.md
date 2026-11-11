@@ -74,92 +74,31 @@ Me caracterizo por ser responsable, autodidactico y tener facilidad para aprende
   </p>
 </div>
 
-
 ---
 
-<h2 align="center">🚀 Proyectos Destacados</h2>
+<h2 align="center">📊 Estadísticas de GitHub</h2>
 
 <p align="center">
-  Una selección de proyectos desarrollados
-  durante mi formación académica y práctica.
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=christianponzon&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Estadísticas de GitHub"
+  />
 </p>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">🛒 TechNova</h3>
-
-<p>
-Tienda online de tecnología con catálogo
-de productos, interfaz responsive y
-funcionalidades interactivas.
-</p>
-
-<p><b>Tecnologías:</b><br>
-HTML, CSS y JavaScript
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3 align="center">💈 BarberPro</h3>
-
-<p>
-Sistema web para gestionar reservas,
-usuarios, servicios y disponibilidad
-de barberos.
-</p>
-
-<p><b>Tecnologías:</b><br>
-Vue.js, Fastify y PostgreSQL
-</p>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">📦 TechSolutions</h3>
-
-<p>
-Sistema de gestión de inventarios y
-pedidos con autenticación, control
-de productos y movimientos de stock.
-</p>
-
-<p><b>Tecnologías:</b><br>
-PHP, MySQL y Bootstrap
-</p>
-
-<a href="https://github.com/christianponzon/techsolutions">
-  🔗 Ver repositorio
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3 align="center">🍽️ Sabor Gourmet ERP</h3>
-
-<p>
-Sistema de gestión para restaurantes
-con API REST, pedidos, pagos,
-mesas y diferentes roles de usuario.
-</p>
-
-<p><b>Tecnologías:</b><br>
-Java, Spring Boot y Vue.js
-</p>
-
-</td>
-</tr>
-</table>
+<h3 align="center">💻 Lenguajes más utilizados</h3>
 
 <p align="center">
-  💡 Cada proyecto representa una oportunidad
-  para aplicar mis conocimientos y mejorar
-  mis habilidades como desarrollador.
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=christianponzon&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Lenguajes más utilizados"
+  />
+</p>
+
+<h3 align="center">🔥 Actividad de contribuciones</h3>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=christianponzon&theme=tokyo-night&hide_border=true"
+    alt="Gráfico de actividad de GitHub"
+  />
 </p>
