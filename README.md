@@ -34,3 +34,42 @@ Me caracterizo por ser responsable, autodidactico y tener facilidad para aprende
 ### 💡 "Aprender, desarrollar e innovar."
 
 </div>
+
+
+---
+
+<h2 align="center">🛠️ Tecnologías y Herramientas</h2>
+
+<h3 align="center">💻 Lenguajes de Programación</h3>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,ts,php,cs,html,css" />
+</div>
+
+<h3 align="center">🚀 Frameworks y Desarrollo Web</h3>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,vue,laravel,spring,bootstrap" />
+</div>
+
+<h3 align="center">🗄️ Bases de Datos</h3>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
+</div>
+
+<h3 align="center">⚙️ Herramientas de Desarrollo</h3>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,postman,figma" />
+</div>
+
+<br>
+
+<div align="center">
+  <p>
+    💡 Me interesa desarrollar aplicaciones
+    funcionales, escalables y bien estructuradas,
+    aplicando buenas prácticas de programación.
+  </p>
+</div>
