@@ -73,3 +73,93 @@ Me caracterizo por ser responsable, autodidactico y tener facilidad para aprende
     aplicando buenas prácticas de programación.
   </p>
 </div>
+
+
+---
+
+<h2 align="center">🚀 Proyectos Destacados</h2>
+
+<p align="center">
+  Una selección de proyectos desarrollados
+  durante mi formación académica y práctica.
+</p>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🛒 TechNova</h3>
+
+<p>
+Tienda online de tecnología con catálogo
+de productos, interfaz responsive y
+funcionalidades interactivas.
+</p>
+
+<p><b>Tecnologías:</b><br>
+HTML, CSS y JavaScript
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">💈 BarberPro</h3>
+
+<p>
+Sistema web para gestionar reservas,
+usuarios, servicios y disponibilidad
+de barberos.
+</p>
+
+<p><b>Tecnologías:</b><br>
+Vue.js, Fastify y PostgreSQL
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">📦 TechSolutions</h3>
+
+<p>
+Sistema de gestión de inventarios y
+pedidos con autenticación, control
+de productos y movimientos de stock.
+</p>
+
+<p><b>Tecnologías:</b><br>
+PHP, MySQL y Bootstrap
+</p>
+
+<a href="https://github.com/christianponzon/techsolutions">
+  🔗 Ver repositorio
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🍽️ Sabor Gourmet ERP</h3>
+
+<p>
+Sistema de gestión para restaurantes
+con API REST, pedidos, pagos,
+mesas y diferentes roles de usuario.
+</p>
+
+<p><b>Tecnologías:</b><br>
+Java, Spring Boot y Vue.js
+</p>
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  💡 Cada proyecto representa una oportunidad
+  para aplicar mis conocimientos y mejorar
+  mis habilidades como desarrollador.
+</p>
